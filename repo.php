@@ -7,7 +7,7 @@
     <title>Document</title>
 </head>
 <body>
-<h4>hola mundo</h4>
+<table><tr><td>hola</td><td>como estan</td> </tr></table>
     
 </body>
 </html>
